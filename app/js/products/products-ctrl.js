@@ -2,7 +2,7 @@
 * @Author: harry
 * @Date:   2017-08-25 00:04:01
 * @Last Modified by:   harry
-* @Last Modified time: 2017-08-25 00:04:47
+* @Last Modified time: 2017-08-25 00:44:12
 */
 angular.module( 'products', [] ).config( function( $stateProvider ) {
   $stateProvider.state( 'products', {
