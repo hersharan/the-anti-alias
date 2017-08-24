@@ -1,0 +1,49 @@
+/*
+* @Author: harry
+* @Date:   2017-08-24 23:49:00
+* @Last Modified by:   harry
+* @Last Modified time: 2017-08-25 00:35:34
+*/
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+	/*position: relative;*/
+	min-height: 100%;
+}
+body {
+	/* Margin bottom by footer height */
+	/*margin-bottom: 60px;*/
+}
+.footer {
+	/*position: fixed;*/
+	margin-top: 20px;	
+	bottom: 0;
+	width: 100%;
+	/* Set the fixed height of the footer here */
+	/*height: 60px;*/
+	background-color: #f5f5f5;
+}
+
+ul{
+	padding : 0 !important;
+}
+li{
+	list-style: none;
+}
+.center{
+	text-align: center;
+}
+
+/*padding classess*/
+
+.padding5{
+	padding : 5px;	
+}
+.padding10{
+	padding : 10px;	
+}
+
+/*MARGINS*/
+.marginb20{
+	margin-bottom: 20px;
+}

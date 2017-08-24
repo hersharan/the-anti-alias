@@ -6,6 +6,7 @@
 # FrontEnd
 app/js/bin/template/
 app/css/sass/
+static/
 static/css/
 static/js/
 static/js/app.min.js

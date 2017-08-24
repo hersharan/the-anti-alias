@@ -1,4 +1,4 @@
-angular.module( 'index', ['home'] ).config( function( $stateProvider ) {
+angular.module( 'index', ['home','products'] ).config( function( $stateProvider ) {
   $stateProvider.state( 'index', {
     url: '/',
     abstract:true,
